@@ -1,0 +1,73 @@
+Timestamp,UniqueID,Headset,Pain_Head,Pain_Head_Uncomfortable,Pain_Head_Interference,Pain_Eyes,Pain_Eyes_Uncomfortable,Pain_Eyes_Interference,Pain_Head_Uncomfortable_Score,Pain_Eyes_Uncomfortable_Score,Pain_Head_Interference_Score,Pain_Eyes_Interference_Score,Total_Discomfort_Score
+2/25/2025 13:01:55,0,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+2/25/2025 13:24:03,0,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+2/25/2025 13:41:29,0,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 13:00:55,1,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 13:18:02,1,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 13:32:42,1,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/4/2025 14:42:48,2,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/4/2025 15:05:29,2,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/4/2025 15:22:50,2,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/5/2025 12:10:02,3,HP,Yes,Slightly Uncomfortable,Substantially Interfered,Yes,Slightly Uncomfortable,Slightly Interfered,1.0,1.0,3.0,1.0,6.0
+3/5/2025 12:32:46,3,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/5/2025 12:52:03,3,HTC,Yes,Moderately Uncomfortable,Slightly Interfered,Yes,Moderately Uncomfortable,Slightly Interfered,2.0,2.0,1.0,1.0,6.0
+2/27/2025 10:43:10,4,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+2/27/2025 10:48:04,4,HP,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+2/27/2025 11:09:08,4,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 18:15:01,5,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 18:32:46,5,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 18:55:11,5,HTC,Yes,Slightly Uncomfortable,Slightly Interfered,No,0,0,1.0,0.0,1.0,0.0,2.0
+3/6/2025 19:39:35,6,HTC,No,0,Substantially Interfered,No,0,0,0.0,0.0,3.0,0.0,3.0
+3/6/2025 19:56:53,6,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 20:15:34,6,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/7/2025 14:33:10,7,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/7/2025 14:54:42,7,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/7/2025 15:11:06,7,Oculus,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/8/2025 10:37:27,8,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/8/2025 10:59:28,8,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/8/2025 11:22:34,8,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/8/2025 13:05:05,9,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/8/2025 13:24:50,9,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/8/2025 13:44:07,9,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/12/2025 14:54:55,10,HTC,No,0,Slightly Interfered,Yes,Slightly Uncomfortable,Slightly Interfered,0.0,1.0,1.0,1.0,3.0
+3/12/2025 15:21:43,10,Oculus,Yes,Slightly Uncomfortable,Slightly Interfered,No,0,0,1.0,0.0,1.0,0.0,2.0
+3/12/2025 15:43:53,10,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 14:17:40,11,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 14:39:15,11,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/3/2025 15:01:59,11,HTC,Yes,Slightly Uncomfortable,Slightly Interfered,No,0,0,1.0,0.0,1.0,0.0,2.0
+2/24/2025 11:34:30,12,HTC,Yes,Slightly Uncomfortable,Not at all,No,,,1.0,0.0,0.0,0.0,1.0
+2/24/2025 12:00:08,12,HP,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+2/24/2025 12:23:55,12,Oculus,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/6/2025 15:51:00,13,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 16:11:59,13,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 16:31:03,13,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/7/2025 17:49:26,14,HTC,Yes,Moderately Uncomfortable,Substantially Interfered,No,0,Slightly Interfered,2.0,0.0,3.0,1.0,6.0
+3/7/2025 18:13:07,14,HP,Yes,Very Uncomfortable,Slightly Interfered,Yes,Moderately Uncomfortable,Slightly Interfered,3.0,2.0,1.0,1.0,7.0
+3/7/2025 18:30:10,14,Oculus,No,0,Slightly Interfered,No,0,Slightly Interfered,0.0,0.0,1.0,1.0,2.0
+3/9/2025 17:54:13,15,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/9/2025 18:25:08,15,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/10/2025 1:23:27,15,HP,No,0,Substantially Interfered,No,0,0,0.0,0.0,3.0,0.0,3.0
+3/6/2025 10:56:47,16,HP,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 10:59:42,16,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/6/2025 11:19:03,16,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/12/2025 16:42:51,17,HP,Yes,Slightly Uncomfortable,Not at all,No,0,Not at all,1.0,0.0,0.0,0.0,1.0
+3/12/2025 17:01:43,17,HTC,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/12/2025 17:19:07,17,Oculus,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/13/2025 12:59:44,18,Oculus,Yes,Slightly Uncomfortable,Slightly Interfered,Yes,Slightly Uncomfortable,Slightly Interfered,1.0,1.0,1.0,1.0,4.0
+3/13/2025 13:17:08,18,HP,No,0,Slightly Interfered,Yes,Slightly Uncomfortable,Slightly Interfered,0.0,1.0,1.0,1.0,3.0
+3/13/2025 13:32:37,18,HTC,Yes,Slightly Uncomfortable,Substantially Interfered,Yes,Moderately Uncomfortable,Substantially Interfered,1.0,2.0,3.0,3.0,9.0
+3/14/2025 15:55:31,19,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/14/2025 16:13:06,19,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/14/2025 16:32:46,19,HP,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/15/2025 13:03:50,20,HTC,Yes,Slightly Uncomfortable,Not at all,No,Slightly Uncomfortable,Not at all,1.0,1.0,0.0,0.0,2.0
+3/15/2025 13:19:24,20,HP,Yes,Moderately Uncomfortable,Slightly Interfered,No,Slightly Uncomfortable,Not at all,2.0,1.0,1.0,0.0,4.0
+3/15/2025 13:36:33,20,Oculus,Yes,Slightly Uncomfortable,Not at all,No,Slightly Uncomfortable,Not at all,1.0,1.0,0.0,0.0,2.0
+3/17/2025 17:24:26,21,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/17/2025 17:44:25,21,HP,Yes,Slightly Uncomfortable,Not at all,No,0,0,1.0,0.0,0.0,0.0,1.0
+3/17/2025 18:03:29,21,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/18/2025 12:45:14,22,HP,Yes,Slightly Uncomfortable,Slightly Interfered,No,0,0,1.0,0.0,1.0,0.0,2.0
+3/18/2025 13:10:34,22,HTC,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/18/2025 13:32:14,22,Oculus,No,0,0,No,0,0,0.0,0.0,0.0,0.0,0.0
+3/26/2025 12:09:50,23,Oculus,Yes,Moderately Uncomfortable,Slightly Interfered,Yes,Moderately Uncomfortable,Slightly Interfered,2.0,2.0,1.0,1.0,6.0
+3/26/2025 12:12:36,23,HP,Yes,Very Uncomfortable,Substantially Interfered,Yes,Very Uncomfortable,Substantially Interfered,3.0,3.0,3.0,3.0,12.0
+3/26/2025 12:29:40,23,HTC,Yes,Moderately Uncomfortable,Not at all,Yes,Slightly Uncomfortable,Slightly Interfered,2.0,1.0,0.0,1.0,4.0
